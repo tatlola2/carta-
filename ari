@@ -1,0 +1,88 @@
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta de Paloma</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0e6f7;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: 50px;
+            text-align: center;
+        }
+        h1 {
+            color: #ff88cc;
+        }
+        p {
+            text-align: justify;
+            line-height: 1.6;
+            font-size: 16px;
+        }
+        .signature {
+            margin-top: 40px;
+            font-weight: bold;
+            color: #ff88cc;
+        }
+        .highlight {
+            font-size: 20px;
+            color: #ff88cc;
+            font-weight: bold;
+            background-color: #ffe6f2;
+            padding: 10px;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .audio {
+            margin-top: 30px;
+        }
+        iframe {
+            width: 100%;
+            height: 80px;
+            border: none;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Carta de Paloma</h1>
+        <p>Hola, mi princesa hermosa. <br><br>
+        Primero que nada te quiero decir que gracias, gracias por aparecer, gracias por permitirme quererte y gracias por hacerme feliz con el simple hecho de existir. No tenés idea de lo feliz y agradecida que estoy de haberte conocido y de que seas parte de mi vida. No sé cómo empezar a expresarte lo especial que sos para mí, no hay palabras suficientes para decirte todo lo que siento por vos, pero voy a intentar hacerlo de la mejor manera 😭.</p>
+        <p>No sabía que enamorarse se sentía de esta manera, tan llena de calma y de amor. Con vos no hay ansiedad ni miedo, con vos todo se siente seguro y tranquilo, se siente como algo que quiero tener y cuidar para siempre, como si estuviéramos hechas la una para la otra (que por cierto, si es así). Y eso es lo que me parece más hermoso de todo. No hay un solo momento en el que dude de lo que siento por vos. Todo es tan claro, tan natural, tan hermoso. Como si amarte fuera la cosa más fácil del mundo.</p>
+        <p>Tenés idea de la cantidad de veces que lloré nada más porque me desbordaba de amor? Es impresionante lo que siento por vos, Ari. Me enamoré de tus ojitos, me enamoré de cada letra de tu nombre, me enamoré de tu dulce forma de ser, me enamoré de cada detalle de vos, me enamoré completamente de vos y me moría por decírtelo.</p>
+        <p>Lo primero que hago cuando me levanto es ver si me mandaste mensaje, porque cada mensaje tuyo es mi parte favorita del día. Me levanto y me acuesto pensando en vos, paso las 24 horas del día preguntándome si estás bien, si comiste y si dormiste bien. Y no es solo preocupación, es que posta quiero saber todo de vos. Me interesa cada cosa, hasta la más mínima, porque todo lo que tiene que ver con vos me importa más de lo que puedo explicar.</p>
+        <p>Me encanta estar enamorada de vos, estoy completamente loca por vos, no sé cómo haces pero cada día me engancho más. Me encanta cada detalle de vos, me encantan tus hermosos ojos, tu preciosa voz, tus labios, tu nariz, tu linda carita, tu forma de ser, tu personalidad, tu humor y tus gustos.</p>
+        <p>Me encanta que estés obsesionada con Billie Eilish, me encanta que te gusten las ponys con tatuajes en la cola y los bichitos con poderes (no hablo de esos bichitos, okey), me encanta cuando te emocionas por cosas tan chiquitas como los apodos, me encanta que me fascine todo de vos, tanto que podría describirte por horas y seguiría enamorada de cada detalle.</p>
+        <p>Y sabés? Te amo, más que a nada, más que a Laufey, más que a Dr. House, que a Hugh Laurie, que a Aubrey Plaza, más que a Jacob Elordi y más que a Guido Sardelli. No sabés las ganas que tenía de decirte eso porque el "me gustás" se quedó corto hace mucho. Y te amo de esa manera que no se puede explicar bien con palabras, porque va mucho más allá de cualquier cosa que haya sentido antes. Es un amor que me cambia la forma de ver todo. Un amor que me hace querer ser mejor, que me llena de ganas de hacerte feliz y de cuidarte.</p>
+        <p>De verdad quiero que funcione lo de nosotras y te juro que te voy a entregar todo, no me pienso quedar con las ganas de demostrarte lo mucho que te amo y lo especial que sos para mí.</p>
+        <p>No tengo idea de cómo hacía para vivir antes de conocerte, pero ahora sé que no quiero vivir sin vos, no quiero un solo día de mi vida sin vos porque quiero darte todo, quiero hacerte feliz y amarte lo máximo que una persona podría amar, aunque eso nunca sea suficiente para lo que en realidad merecés.</p>
+        <p>Sos la razón por la que cada día es un poquito mejor, cuando tengo un mal día tu mensaje arregla todo. Y si pudiera elegir algo para hacer eterno, sería esto que tenemos. Porque nunca en mi vida sentí algo tan lindo y hermoso.</p>
+        <p>Pero no quiero que esto se quede solo en palabras. No quiero que sea algo que no terminamos de nombrar. Quiero que cada día sea una oportunidad para seguir eligiéndonos. Quiero poder decir que sos mi novia con todo el orgullo del mundo, sabiendo que no hay nada que desee más que estar con vos.</p>
+        <p>Y no sé cómo hacer esta pregunta sin que el corazón me explote, porque cada vez que te hablo y que te pienso, la idea se me mete en la cabeza y no se va.</p>
+        <p>Así que no sé, no quiero presionarte y tampoco quiero apurarte, pero también siento que si no lo digo me va a dar algo 😭.</p>
+        <p class="highlight">Así que, Ari, ¿puedo ser tu novia? ¿Puedo llamarte mía con esa certeza de saber que es mutuo? ¿Puedo tener el privilegio de compartir con vos todos los días que vengan y de hacer de esto algo tan único y especial como lo sos vos para mí?</p>
+        <p>No te sientas presionada y no pasa nada si no querés o pensás que es muy pronto, okey? Tomate todo el tiempo que quieras.</p>
+        <p>Te amo, mi princesa 💗.</p>
+        <p class="signature">Con cariño, Paloma (el amor de tu vida, obvio) (no paula) 😺</p>
+        <div class="audio">
+            <iframe src="https://drive.google.com/file/d/1P8iiB6elZYc6tFwfMkXsD9zAcxxgaRLr/preview" width="100%" height="80" frameborder="0" allow="autoplay"></iframe>
+        </div>
+    </div>
+</body>
+</html>
